@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\ConsumerAPI.csproj": {}
+    "C:\\Users\\eliel.silva\\source\\repos\\ConsumidorAPI\\ConsumerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\ConsumerAPI.csproj": {
+    "C:\\Users\\eliel.silva\\source\\repos\\ConsumidorAPI\\ConsumerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\ConsumerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\eliel.silva\\source\\repos\\ConsumidorAPI\\ConsumerAPI.csproj",
         "projectName": "ConsumerAPI",
-        "projectPath": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\ConsumerAPI.csproj",
+        "projectPath": "C:\\Users\\eliel.silva\\source\\repos\\ConsumidorAPI\\ConsumerAPI.csproj",
         "packagesPath": "C:\\Users\\eliel.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\obj\\",
+        "outputPath": "C:\\Users\\eliel.silva\\source\\repos\\ConsumidorAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

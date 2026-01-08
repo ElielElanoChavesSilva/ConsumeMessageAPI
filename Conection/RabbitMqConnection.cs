@@ -22,10 +22,5 @@ namespace ConsumerAPI.Conection
         {
             return _connection.CreateChannelAsync();
         }
-
-        public Task<IConnection> GetConnectionAsync()
-        {
-            return Task.FromResult(_connection);
-        }
     }
 }

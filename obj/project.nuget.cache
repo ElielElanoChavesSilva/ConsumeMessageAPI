@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSydzHDp7Q0=",
+  "dgSpecHash": "apFW28qr8WI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\ConsumerAPI.csproj",
+  "projectFilePath": "C:\\Users\\eliel.silva\\source\\repos\\ConsumidorAPI\\ConsumerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eliel.silva\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
     "C:\\Users\\eliel.silva\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",

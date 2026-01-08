@@ -20,7 +20,7 @@ public class OrderCreatedConsumer(RabbitMqConnection connection) : BackgroundSer
 
         var consumer = new AsyncEventingBasicConsumer(channel);
 
-        consumer.ReceivedAsync += async (model, args) =>
+        consumer.ReceivedAsync += async (_, args) =>
         {
             var message = Encoding.UTF8.GetString(args.Body.ToArray());
 
