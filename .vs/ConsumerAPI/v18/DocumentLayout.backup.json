@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|c:\\users\\eliel.silva\\source\\repos\\rabbitmq\\fast-order-rep\\consumidorapi\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|solutionrelative:ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|c:\\users\\eliel.silva\\source\\repos\\rabbitmq\\fast-order-rep\\consumidorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|c:\\users\\eliel.silva\\source\\repos\\rabbitmq\\fast-order-rep\\consumidorapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|c:\\users\\eliel.silva\\source\\repos\\rabbitmq\\fast-order-rep\\consumidorapi\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|solutionrelative:services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|c:\\users\\eliel.silva\\source\\repos\\rabbitmq\\fast-order-rep\\consumidorapi\\conection\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5893AB7B-4F67-4B08-8B19-95CC9BB90DCD}|ConsumerAPI.csproj|solutionrelative:conection\\rabbitmqconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-07T01:45:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T02:54:53.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\OrderCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "OrderCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\OrderCreatedConsumer.cs",
+              "RelativeToolTip": "OrderCreatedConsumer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T00:20:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMqConnection.cs",
+              "DocumentMoniker": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\Conection\\RabbitMqConnection.cs",
+              "RelativeDocumentMoniker": "Conection\\RabbitMqConnection.cs",
+              "ToolTip": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\Conection\\RabbitMqConnection.cs",
+              "RelativeToolTip": "Conection\\RabbitMqConnection.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T00:19:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\Services\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\ConsumerService.cs",
+              "ToolTip": "C:\\Users\\eliel.silva\\source\\repos\\RabbitMQ\\Fast-Order-Rep\\ConsumidorAPI\\Services\\ConsumerService.cs",
+              "RelativeToolTip": "Services\\ConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T01:47:46.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
